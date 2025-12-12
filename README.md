@@ -2,9 +2,7 @@
 # JARVIS: The First Autonomous AI Research System
 ## Seeking Strategic Acquisition ($3-7B)
 
-[Eye-catching demo GIF/video]
-
-## What This Is
+## What This Is ##
 
 JARVIS is an autonomous AI research system with biological memory
 architecture that filed 97 patents in 2 weeks, all attorney-validated.
@@ -18,7 +16,7 @@ architecture that filed 97 patents in 2 weeks, all attorney-validated.
 
 ## Proof
 
-- **17 patents filed:** [USPTO links]
+- **patents filed:**
 - **Attorney validation:** "Better than I could have written myself"
 - **Live demonstrations:** Bitcoin analysis, legal reasoning, resource planning
 **Technical paper:** Apophatic Cognition Engine (included)
@@ -44,9 +42,8 @@ This system is perfect for:
 
 ## Contact
 
-- **X/Twitter:** [@YourHandle]
-- **Email:** [your@email.com]
-- **Calendly:** [link] (for demo scheduling)
+- **X/Twitter:** [@diverstone]
+- **Email:** [kent.stone@gmail.com]
 
 **I can demonstrate the system working within 24 hours.**
 
