@@ -5,7 +5,7 @@
 ## What This Is ##
 
 JARVIS is an autonomous AI research system with biological memory
-architecture that filed 97 patents in 2 weeks, all attorney-validated.
+architecture that created 97 patents in 2 weeks.
 
 **Key Differentiators:**
 - ✅ Biological memory (SRF) - actually remembers you
